@@ -74,7 +74,7 @@ canvas{
 }
 .my_name{
   font-size: 2em;
-  letter-spacing: 15px;
+  letter-spacing: 5px;
 }
 .about{
     font-size: 1.3em;
@@ -1315,7 +1315,7 @@ border: 1px solid #3a3a3a;
     width: 90%;
     text-align: center;
     padding: 0;
-    margin-left: 5%;;  
+    margin-left: 5%; 
   }
   .lang#lang{
     position: relative;
@@ -1327,11 +1327,26 @@ border: 1px solid #3a3a3a;
     font-size: 1.5em;
   }
   .contactHead{
-    width: 70%;
-    left: 15%;
+    width: 94%;
+    left: 3%;
   }
   .news{
     font-size: 1.3em;
+  }
+}
+
+@media (min-width: 401px) and (max-width: 460px) {
+  .awardPub#awardPub{
+    width: 84%;
+    text-align: center;
+    padding: 0;
+    margin-left: 8%;
+  }
+  .lang#lang{
+    position: relative;
+    width: 80%;
+    padding: 0;
+    margin-left: 10%;
   }
 }
 
@@ -1350,6 +1365,10 @@ border: 1px solid #3a3a3a;
   }
   .news{
     font-size: 1.5em;
+  }
+  .contactHead{
+    width: 80%;
+    left: 10%;
   }
 }
 
