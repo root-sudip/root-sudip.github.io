@@ -23,7 +23,7 @@ var obj = {
         "Best project award, B.Tech 2017."
     ],
     "publications": [
-        "<font color='#98afc7'>Sudip Das</font>, Partha Sarathi Mukherjee and Ujjwal Bhattacharya. Seek and You Will Find: A New Optimized Framework for Efficient Detection of Pedestrian. <font color='#98afc7'>(ICVGIP 2018)</font>.",
+        "<font color='#98afc7'>Sudip Das</font>, Partha Sarathi Mukherjee and Ujjwal Bhattacharya. Seek and You Will Find: A New Optimized Framework for Efficient Detection of Pedestrian. <font color='#98afc7'>(ICVGIP 2018)</font>. [<a href='https://128.84.21.199/pdf/1912.10241.pdf'>Paper</a>]",
         "Perla Sai Raj Kishore<sub>*</sub>, <font color='#98afc7'>Sudip Das</font><sub>*</sub>, Partha Sarathi Mukherjee and Ujjwal Bhattacharya. ClueNet : A Deep Framework for Occluded Pedestrian Pose Estimation. <font color='#98afc7'>(BMVC 2019)</font>. [<a href='https://bmvc2019.org/wp-content/uploads/papers/0466-paper.pdf'>Paper</a>] [*equal contributions]"
     ],
     "mails": [
