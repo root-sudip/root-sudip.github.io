@@ -2,7 +2,7 @@ var obj = {
     "doings": [
         {
             "title": "",
-            "desc": "I have completed B.Tech from Camellia Institute of Technology."
+            "desc": "I am currently working as a Research Assistant at  <font color='#003e53' font-weight='bold'> Computer Vision and Pattern Recognition (CVPR) Unit </font> of <font color='#003e53' font-weight='bold'>  Indian Statistical Institute </font> . I recieved my bachelor degree in Computer Science and Engineering from West Bengal University of Technology."
         },
         {
             "title": "Specialties",
