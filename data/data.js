@@ -2,7 +2,7 @@ var obj = {
     "doings": [
         {
             "title": "",
-            "desc": "I am currently working as a Research Assistant at  <font color='#003e53' font-weight='bold'> Computer Vision and Pattern Recognition (CVPR) Unit </font> of <font color='#003e53' font-weight='bold'>  Indian Statistical Institute </font> . I recieved my bachelor degree in Computer Science and Engineering from West Bengal University of Technology."
+            "desc": "I am currently working as a Research Assistant at  <font color='#003e53' font-weight='bold'> Computer Vision and Pattern Recognition (CVPR) Unit </font> of <font color='#003e53' font-weight='bold'>  Indian Statistical Institute </font>. I am fortunate to be advised by <font color='#003e53' font-weight='bold'>Dr. Ujjwal Bhattacharya </font>. Prior to this I recieved my bachelors degree in Computer Science and Engineering from <font color='#003e53' font-weight='bold'> West Bengal University of Technology </font>. During my stay, I have worked with <font color='#003e53' font-weight='bold'> Assistant Prof. Atanu Mondal, Ramakrishna Mission Vidyamandira </font> on building Statistical Machine Learning algorithms as a part of my Bachelor’s thesis."
         },
         {
             "title": "Specialties",
