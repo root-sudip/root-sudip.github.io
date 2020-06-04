@@ -14,7 +14,7 @@ var obj = {
         }
     ],
     "news": [
-        "I have been a reviewer for ICDAR, PReMI conferences.",
+        "I have been a reviewer for ICPR, ICDAR, ICFHR, PReMI conferences.",
         // "From fresh food to clothes of choice.",
         // "3 suffer bullet injuries after altercation"
     ],
