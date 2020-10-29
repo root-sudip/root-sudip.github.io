@@ -28,9 +28,11 @@ var obj = {
         "<font color='#98afc7'>Sudip Das</font>, Perla Sai Raj Kishore and Ujjwal Bhattacharya. An End-to-End Framework for Unsupervised Pose Estimation of Occluded Pedestrians. <font color='#98afc7'>(ICIP 2020) [Accepted]</font>. [<a href='https://arxiv.org/pdf/2002.06429.pdf'>PDF</a>]",
         "Kinjal Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. Scale-Invariant Multi-Oriented Text Detection in Wild Scene Images. <font color='#98afc7'>(ICIP 2020) [Accepted]</font>. [<a href='https://arxiv.org/pdf/2002.06423.pdf'>PDF</a>]",
         "Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. CardioGAN: An Attention-based Generative Adversarial Network for Generation of Electrocardiograms. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>.",
-        "Kinjal Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. Stratified Multi-Task Learning for Robust Spotting of Scene Texts. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>"
+        "Kinjal Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. Stratified Multi-Task Learning for Robust Spotting of Scene Texts. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>",
+        "Joy Mustafi, Sayan Deb Kundu, Gopikrishna Nuti, <font color='#98afc7'>Sudip Das</font> and Trevor Rodrigues. A SYSTEM AND METHOD FOR AUTOMATIC UPDATE OF CUSTOMER RELATIONSHIP MANAGEMENT AND ENTERPRISE RESOURCE PLANNING FIELDS WITH NEXT BEST ACTIONS USING MACHINE LEARNING. <font color='#98afc7'> [USPTO Application No. US 17/082879]</font>",
+        "Sanjoy Chowdhury, Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. LISTEN TO THE PIXELS. <font color='#98afc7'> [Under review]</font>"
     ],
-    "mails": [
+    "mails<font color='#98afc7'>Sudip Das</font> ": [
         "d.sudip47@gmail.com",
         "dsudip_t@isical.ac.in"
     ]
