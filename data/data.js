@@ -5,7 +5,7 @@ var obj = {
             "desc": "I am currently working as a Research Assistant at  <font color='#003e53' font-weight='bold'> Computer Vision and Pattern Recognition (CVPR) Unit </font> of <font color='#003e53' font-weight='bold'>  Indian Statistical Institute </font>. I am fortunate to be advised by <font color='#003e53' font-weight='bold'>Associate Prof. Dr. Ujjwal Bhattacharya</font>. Prior to this I received my bachelors degree in Computer Science and Engineering from <font color='#003e53' font-weight='bold'> West Bengal University of Technology</font>. During my stay, I have worked with <font color='#003e53' font-weight='bold'> Assistant Prof. Atanu Mondal, Ramakrishna Mission Vidyamandira </font> on building Statistical Machine Learning algorithms as a part of my Bachelor’s thesis."
         },
         {
-            "title": "Specialties",
+            "title": "Specialities",
             "desc": "Research targeted topics, project design and management, code completion, performance evaluation and tuning, writing scientific papers"
         },
         {
