@@ -30,7 +30,7 @@ var obj = {
         "Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. CardioGAN: An Attention-based Generative Adversarial Network for Generation of Electrocardiograms. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>. [<a href='https://ieeexplore.ieee.org/abstract/document/9412905/'>PDF</a>]",
         "Kinjal Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. Stratified Multi-Task Learning for Robust Spotting of Scene Texts. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>. [<a href='https://ieeexplore.ieee.org/abstract/document/9411951/'>PDF</a>]",
         "Joy Mustafi, Sayan Deb Kundu, Gopikrishna Nuti, <font color='#98afc7'>Sudip Das</font> and Trevor Rodrigues. A SYSTEM AND METHOD FOR PERSONALIZED QUERY AND INTERACTION SET GENERATION USING NATURAL LANGUAGE PROCESSING TECHNIQUES. <font color='#98afc7'> [USPTO Application No. US 17/082842]</font>",
-        "Sanjoy Chowdhury, Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. LISTEN TO THE PIXELS. <font color='#98afc7'> [Under review]</font>"
+        "Sanjoy Chowdhury, Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. LISTEN TO THE PIXELS. <font color='#98afc7'>(ICIP 2021) [Accepted]</font>."
     ],
     "mails<font color='#98afc7'>Sudip Das</font> ": [
         "d.sudip47@gmail.com",
