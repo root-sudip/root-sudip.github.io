@@ -31,7 +31,8 @@ var obj = {
         "Kinjal Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. Stratified Multi-Task Learning for Robust Spotting of Scene Texts. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>. [<a href='https://ieeexplore.ieee.org/abstract/document/9411951/'>PDF</a>]",
         "Joy Mustafi, Sayan Deb Kundu, Gopikrishna Nuti, <font color='#98afc7'>Sudip Das</font> and Trevor Rodrigues. A SYSTEM AND METHOD FOR PERSONALIZED QUERY AND INTERACTION SET GENERATION USING NATURAL LANGUAGE PROCESSING TECHNIQUES. <font color='#98afc7'> [USPTO Application No. US 17/082842]</font>",
         "Sanjoy Chowdhury, Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. LISTEN TO THE PIXELS. <font color='#98afc7'>(ICIP 2021) [Accepted]</font>. [<a href='https://ieeexplore.ieee.org/abstract/document/9506019'>PDF</a>]",
-        "Kinjal Dasgupta, Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ujjwal Bhattacharya and Senthil Yogamani. Spatial-Contextual Deep Network Based Multimodal Pedestrian Detection For Autonomous Driving. <font color='#98afc7'>(Under review)</font>. [<a href='https://arxiv.org/pdf/2105.12713.pdf'>PDF</a>]"
+        "Kinjal Dasgupta, Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ujjwal Bhattacharya and Senthil Yogamani. Spatial-Contextual Deep Network Based Multimodal Pedestrian Detection For Autonomous Driving. <font color='#98afc7'>(Under review)</font>. [<a href='https://arxiv.org/pdf/2105.12713.pdf'>PDF</a>]",
+        "Ayan Chaudhury, Partha Sarathi Mukherje, <font color='#98afc7'>Sudip Das</font>, Chandan Biswas and Ujjwal Bhattacharya. A Deep OCR for Degraded Bangla Documents. <font color='#98afc7'>(Accepted)</font>."
     ],
     "mails<font color='#98afc7'>Sudip Das</font> ": [
         "d.sudip47@gmail.com",
