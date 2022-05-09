@@ -31,7 +31,8 @@ var obj = {
         "Kinjal Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. Stratified Multi-Task Learning for Robust Spotting of Scene Texts. <font color='#98afc7'>(ICPR 2020) [Accepted]</font>. [<a href='https://ieeexplore.ieee.org/abstract/document/9411951/'>PDF</a>]",
         "Sanjoy Chowdhury, Subhrajyoti Dasgupta, <font color='#98afc7'>Sudip Das</font> and Ujjwal Bhattacharya. LISTEN TO THE PIXELS. <font color='#98afc7'>(ICIP 2021) [Accepted]</font>. [<a href='https://ieeexplore.ieee.org/abstract/document/9506019'>PDF</a>]",
         "Kinjal Dasgupta, Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ujjwal Bhattacharya and Senthil Yogamani. Spatial-Contextual Deep Network Based Multimodal Pedestrian Detection For Autonomous Driving. <font color='#98afc7'>(Accepted T-ITS(IF: 6.49)(2022))</font>. [<a href='https://arxiv.org/pdf/2105.12713.pdf'>PDF</a>]",
-        "Ayan Chaudhury, Partha Sarathi Mukherje, <font color='#98afc7'>Sudip Das</font>, Chandan Biswas and Ujjwal Bhattacharya. A Deep OCR for Degraded Bangla Documents. <font color='#98afc7'>(Accepted TALLIP(IF: 1.41)(2022))</font>."
+        "Ayan Chaudhury, Partha Sarathi Mukherje, <font color='#98afc7'>Sudip Das</font>, Chandan Biswas and Ujjwal Bhattacharya. A Deep OCR for Degraded Bangla Documents. <font color='#98afc7'>(Accepted TALLIP(IF: 1.41)(2022))</font>." [<a href='https://dl.acm.org/doi/abs/10.1145/3511807'>PDF</a>],
+        "Subhrajyoti Dasgupta, Arindam Das, <font color='#98afc7'>Sudip Das</font>, Andrei Bursuc, Ujjwal Bhattacharya, Senthil Yogamani. UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal. <font color='#98afc7'>[Under Review]</font>  [<a href='https://arxiv.org/pdf/2203.15441'>PDF</a>].
     ],
     "mails<font color='#98afc7'>Sudip Das</font> ": [
         "d.sudip47@gmail.com",
