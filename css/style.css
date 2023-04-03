@@ -53,7 +53,7 @@ canvas{
   bottom: 0;
   left: 0;
   right: 0;
-  width: 70%;
+  width: 50%;
   height: 200px;
   margin: auto;
   color: #F0F8FF;
@@ -66,7 +66,7 @@ canvas{
   width: 100%;
   margin: 0;
   position: absolute;
-  top: 110%;
+  top: 130%;
   left: 90%;
   text-align: left;
   /*margin-right: -50%;*/
