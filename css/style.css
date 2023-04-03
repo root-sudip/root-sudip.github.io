@@ -1629,6 +1629,29 @@ img.linkedin:hover{
   cursor:pointer;
 }
 
+.scholar{
+  position: absolute;
+  top: 110%;
+  left: 270px;
+  height: 40px;
+  width: 40px;
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+  user-drag: none; 
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+
+img.scholar:hover{
+  -webkit-filter: grayscale(0%); 
+  filter: grayscale(0%);
+  cursor:pointer;
+}
+
 .git{
   position: absolute;
   top: 110%;
