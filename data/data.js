@@ -34,7 +34,9 @@ var obj = {
         "Ayan Chaudhury, Partha Sarathi Mukherje, <font color='#98afc7'>Sudip Das</font>, Chandan Biswas and Ujjwal Bhattacharya. A Deep OCR for Degraded Bangla Documents. <font color='#98afc7'>(Accepted TALLIP(IF: 1.41)(2022))</font>. [<a href='https://dl.acm.org/doi/abs/10.1145/3511807'>PDF</a>]",
         "Subhrajyoti Dasgupta, Arindam Das, <font color='#98afc7'>Sudip Das</font>, Andrei Bursuc, Ujjwal Bhattacharya, Senthil Yogamani. UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal. <font color='#98afc7'>[IEEE Access (IF: 3.9)(2023)]</font>  [<a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10217820'>PDF</a>].",
         "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Deep Multi-Task Networks For Occluded Pedestrian Pose Estimation. <font color='#98afc7'>(IMVIP 2022)</font>  [<a href='https://arxiv.org/pdf/2206.07510'>PDF</a>].",
-        "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Revisiting Modality Imbalance In Multimodal Pedestrian Detection. <font color='#98afc7'>(ICIP 2023)</font>  [<a href='https://arxiv.org/pdf/2302.12589'>PDF</a>]."
+        "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Revisiting Modality Imbalance In Multimodal Pedestrian Detection. <font color='#98afc7'>(ICIP 2023)</font>  [<a href='https://arxiv.org/pdf/2302.12589'>PDF</a>].",
+        
+        
         
     ],
     "mails<font color='#98afc7'>Sudip Das</font> ": [
