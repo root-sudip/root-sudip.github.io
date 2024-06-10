@@ -35,7 +35,7 @@ var obj = {
         "Subhrajyoti Dasgupta, Arindam Das, <font color='#98afc7'>Sudip Das</font>, Andrei Bursuc, Ujjwal Bhattacharya, Senthil Yogamani. UnShadowNet: Illumination Critic Guided Contrastive Learning For Shadow Removal. <font color='#98afc7'>[IEEE Access (IF: 3.9)(2023)]</font>  [<a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10217820'>PDF</a>].",
         "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Deep Multi-Task Networks For Occluded Pedestrian Pose Estimation. <font color='#98afc7'>(IMVIP 2022)</font>  [<a href='https://arxiv.org/pdf/2206.07510'>PDF</a>].",
         "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Revisiting Modality Imbalance In Multimodal Pedestrian Detection. <font color='#98afc7'>(ICIP 2023)</font>  [<a href='https://arxiv.org/pdf/2302.12589'>PDF</a>].",
-        
+        "Saheli Hazra, <font color='#98afc7'>Sudip Das</font>, Rohit Choudhary, Arindam Das, Ganesh Sistu, Ciarán Eising, Ujjwal Bhattacharya. Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure. <font color='#98afc7'>(ICIP 2023)</font>  [Under review]."
         
         
     ],
