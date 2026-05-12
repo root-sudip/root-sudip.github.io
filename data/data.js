@@ -36,7 +36,8 @@ var obj = {
         "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Deep Multi-Task Networks For Occluded Pedestrian Pose Estimation. <font color='#98afc7'>(IMVIP 2022)</font>  [<a href='https://arxiv.org/pdf/2206.07510'>PDF</a>].",
         "Arindam Das, <font color='#98afc7'>Sudip Das</font>, Ganesh Sistu, Jonathan Horgan, Ujjwal Bhattacharya, Edward Jones, Martin Glavin, Ciarán Eising. Revisiting Modality Imbalance In Multimodal Pedestrian Detection. <font color='#98afc7'>(ICIP 2023)</font>  [<a href='https://arxiv.org/pdf/2302.12589'>PDF</a>].",
         "Saheli Hazra, <font color='#98afc7'>Sudip Das</font>, Rohit Choudhary, Arindam Das, Ganesh Sistu, Ciarán Eising, Ujjwal Bhattacharya. Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure. [WACV 2025].",
-        "<font color='#98afc7'>Sudip Das</font>, Kaixin Xu, Nushrat Hussain, Ziyuan Zhao, Arindam Das, Weisi Lin, Ujjwal Bhattacharya. MMPrune4U: Regularizing Multimodal Feature Distortion in Weight Pruning for Deep Neural Network Compression. <font color='#98afc7'>(BMVC 2024)</font>."
+        "<font color='#98afc7'>Sudip Das</font>, Kaixin Xu, Nushrat Hussain, Ziyuan Zhao, Arindam Das, Weisi Lin, Ujjwal Bhattacharya. MMPrune4U: Regularizing Multimodal Feature Distortion in Weight Pruning for Deep Neural Network Compression. <font color='#98afc7'>(BMVC 2024)</font>.",
+        "Saheli Hazra, <font color='#98afc7'>Sudip Das</font>, Arindam Das, Ujjwal Bhattacharya. Multimodal Knowledge Distillation for Acoustic-Aware Object Detection. [ICPR 2026].",
         
     ],
     "mails<font color='#98afc7'>Sudip Das</font> ": [
